@@ -14,13 +14,12 @@ In this project logistic regression with CV hyper-parameter optimization as the 
 
 ### First Method
 
-###  <img src="/home/maryamt/Screenshot from 2023-06-18 15-03-50.png" style="zoom: 67%;" /> 
+![Screenshot from 2023-06-18 15-03-50](https://github.com/maryamteimouri/TextClassification/assets/57563772/1d605b3b-4473-4e86-b5a5-83069cecb1bd)
 
 The accuracy of this method is 68%. 
 
 ### Second Method 
-
- <img src="/home/maryamt/Screenshot from 2023-06-18 15-02-06.png" style="zoom: 67%;" />
+![Screenshot from 2023-06-18 15-02-06](https://github.com/maryamteimouri/TextClassification/assets/57563772/8ce74cfd-7849-4805-b99e-7ea96506a22d)
 
 The accuracy of this method is 92%. 
 
